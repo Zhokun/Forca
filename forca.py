@@ -1,5 +1,4 @@
 import string
-from gettext import gettext
 from tkinter import *
 from PIL import ImageTk, Image
 from random import choice
